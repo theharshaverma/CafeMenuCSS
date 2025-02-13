@@ -1,6 +1,8 @@
 # CafeMenuCSS
 A simple cafe menu webpage built using HTML & CSS as part of the freeCodeCamp curriculum.
 
+## About
+FreeCodeCamp course project to learn the most common HTML tags by building Cafe Menu.
 📌 Features
 
 Styled cafe menu with coffee and dessert sections.
