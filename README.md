@@ -33,3 +33,4 @@ Navigate to the project folder:
 cd cafe-menu
 
 Open index.html in your browser.
+![Screenshot](./images/Screenshot%20(62).png)
